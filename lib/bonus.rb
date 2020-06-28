@@ -25,7 +25,7 @@ def bonus
 
   {
      :montague => {
-        :patriarch => {name: "Michael Jordan", age: "53"},
+        :patriarch => {name: "Michael Jordan", age: "53" status: :dead},
         :matriarch => {name: "Lady Montague", age: "54"},
         :hero => {name: "Romeo", age: "15", status: "alive"},
         :hero_friends => [
